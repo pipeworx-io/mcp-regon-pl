@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/regon-pl",
+  "title": "Regon Pl",
+  "description": "Polish business register (REGON / BIR1.1) — resolve any Polish company by NIP, REGON or KRS number…",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/regon-pl",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-regon-pl",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/regon-pl/mcp"
+    }
+  ]
+}
