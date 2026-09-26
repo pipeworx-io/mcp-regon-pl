@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-regon-pl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Polish business register (REGON / BIR1.1) — resolve any Polish company by NIP, REGON or KRS number to its registered name, legal address and entity type, from Statistics Poland's official register.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-e2868c82c5bda8dce21d2bb1971686c89e5ac03307bb5a344169f011853c2b2c",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-8504b865c59e45e6b0b0fdd96b814456e09a4cafac3e0fafef261d9c210f1280",
+    "sourceCommit": "6fe8fb3e01138dfc4ebe7d5c246503aab9278d06"
   }
 }
